@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334742825718",
+    "project_id": "appmovies-e0f59",
+    "storage_bucket": "appmovies-e0f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334742825718:android:54c5ac3442094140345ad7",
+        "android_client_info": {
+          "package_name": "maniacorp.c17130804.appmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334742825718-6qaq8gnh5npfl9a4i23kivv4j77fk6pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDARupm7Dc1KUPFNFvSVIzySvCBJ_wo4D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334742825718-6qaq8gnh5npfl9a4i23kivv4j77fk6pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
